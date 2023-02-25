@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400523079399",
+    "firebase_url": "https://sqliteproject-10d5f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sqliteproject-10d5f",
+    "storage_bucket": "sqliteproject-10d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400523079399:android:0eed7d182ce445d337fc42",
+        "android_client_info": {
+          "package_name": "com.example.atesbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400523079399-n2dkr8gj6pqq7qe0ukfpshc1cogfdbi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Yg2N9CbK8rWZ1GzpTHLwgNza3KQEbfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400523079399-fp3h89o46b91qrpd60jqm6rpds8enje9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
